@@ -1,0 +1,9 @@
+[15-Apr-2015 21:45:02 UTC] PHP Warning:  require_once(sdb.php): failed to open stream: No such file or directory in /home/honejwr4/public_html/wp-content/plugins/product-box/products-json.php on line 2
+[15-Apr-2015 21:45:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'sdb.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/honejwr4/public_html/wp-content/plugins/product-box/products-json.php on line 2
+[15-Apr-2015 21:45:15 UTC] PHP Fatal error:  Call to undefined function pg_query() in /home/honejwr4/public_html/wp-content/plugins/product-box/products-json.php on line 4
+[15-Apr-2015 21:45:28 UTC] PHP Fatal error:  Call to undefined function pg_fetch_assoc() in /home/honejwr4/public_html/wp-content/plugins/product-box/products-json.php on line 31
+[15-Apr-2015 21:50:49 UTC] PHP Fatal error:  Class 'WP_Query' not found in /home/honejwr4/public_html/wp-content/plugins/product-box/products-json.php on line 19
+[15-Apr-2015 21:54:48 UTC] PHP Fatal error:  Call to undefined function do_action() in /home/honejwr4/public_html/wp-content/plugins/product-box/products-json.php on line 33
+[15-Apr-2015 21:55:52 UTC] PHP Fatal error:  Call to undefined function do_action() in /home/honejwr4/public_html/wp-content/plugins/product-box/products-json.php on line 33
+[15-Apr-2015 21:57:23 UTC] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/honejwr4/public_html/wp-content/plugins/product-box/products-json.php on line 4
+[15-Apr-2015 21:57:51 UTC] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/honejwr4/public_html/wp-content/plugins/product-box/product-box.php on line 12
